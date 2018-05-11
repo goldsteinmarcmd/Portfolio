@@ -9,9 +9,23 @@ h1{color: rgb(255, 255, 255));
 font-size: 28px;}
 
 .box {
-    min-height: 50px;
+    /* min-height: 50px; */
 
     font-weight: 800;
     color: #fff;
+
+
+}
+
+img {
+    border-radius: 5%;
+}
+
+.tv {
+    padding-left: 63px
+
+}
+.tvimage {
+    padding-left: 33px
 
 }
