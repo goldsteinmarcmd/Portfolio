@@ -22,10 +22,20 @@ img {
 }
 
 .tv {
-    padding-left: 63px
+    padding-left: 53px
 
 }
 .tvimage {
-    padding-left: 33px
+    padding-left: 25px
+
+}
+
+.headtv {
+    text-align: center
+
+}
+
+.imgtv {
+    text-align: center
 
 }
